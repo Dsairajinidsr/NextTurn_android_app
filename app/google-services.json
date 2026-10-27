@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869943125279",
+    "project_id": "nextturn-project-69ce9",
+    "storage_bucket": "nextturn-project-69ce9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869943125279:android:689048b2e05d646991fc2a",
+        "android_client_info": {
+          "package_name": "com.example.nextturn_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSOtfetkBaaImXCahaZcba71JkGU8HWOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
